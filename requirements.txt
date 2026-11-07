@@ -1,8 +1,9 @@
-torch
-torchvision
-transformers
-datasets
-numpy
-pandas
-matplotlib
-seaborn
+torch>=2.3,<3
+torchvision>=0.18,<1
+transformers>=4.46,<5
+datasets>=3,<5
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+Pillow>=10,<13
+matplotlib>=3.8,<4
+streamlit>=1.40,<2
